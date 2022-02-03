@@ -5,3 +5,6 @@ Built with HTML, CSS, Bootstrap, JavaScript, jQuery, Moment.js, OpenWeather API,
 
 
 ![Weather Dpic](https://user-images.githubusercontent.com/87239985/151896976-7a773363-8f99-4bdb-be92-23068801a943.PNG)
+
+
+Deployed Link: 
